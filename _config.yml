@@ -1,0 +1,28 @@
+name: Metellus UX
+favicon: null
+layout_spectrum: 0.5139822682831436
+typography_spectrum: 0.11751168896444142
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3658041446469724
+  lightness: 0.2769814799539745
+  saturation: 0.31256386428140104
+  rhythmicContrast: 0.5050285521429032
+purpose: []
