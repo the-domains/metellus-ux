@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Welcome to my online portfolio
-datePublished: '2015-12-08T17:28:58.481Z'
-dateModified: '2015-12-08T17:28:40.271Z'
+datePublished: '2015-12-09T02:55:11.986Z'
+dateModified: '2015-12-08T17:28:58.481Z'
 title: UX Designer
 author: []
 authors: []
